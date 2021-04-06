@@ -9,3 +9,4 @@
 4. Sort
 5. Binary Search
 6. Dynamic Programming
+7. Shortest Path
