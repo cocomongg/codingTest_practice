@@ -19,3 +19,4 @@
 3. DFS/BFS
 4. Sort
 5. Binary Search
+6. Dynamic Programming
